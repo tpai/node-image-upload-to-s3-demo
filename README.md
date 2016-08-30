@@ -1,5 +1,7 @@
 # Node Image Upload To S3 Demo
 
+Image upload demo based on [heroku document](https://devcenter.heroku.com/articles/s3-upload-node) and more simple and accurately.
+
 Credit for [flyingsparx/NodeDirectUploader](https://github.com/flyingsparx/NodeDirectUploader).
 
 ## Usage
