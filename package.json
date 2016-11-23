@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "aws-sdk": "^2.5.3",
+    "body-parser": "^1.15.2",
     "dotenv": "^2.0.0",
     "ejs": "2.x",
     "express": "4.x"
